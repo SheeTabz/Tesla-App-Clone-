@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  model: MyString
+  year_of_production: 2022-11-23 19:29:00
+
+two:
+  name: MyString
+  model: MyString
+  year_of_production: 2022-11-23 19:29:00
